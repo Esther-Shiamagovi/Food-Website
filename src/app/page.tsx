@@ -9,6 +9,8 @@ export default function Home() {
     <li><a href="#">RESTURNT</a></li>
     <li><a href="#">SERVICES</a></li>
     <li><a href="#">CART</a></li>
+    <li><a href="#">CART</a></li>
+
   </ul>
  </nav>
       <div className=" flex  ">
@@ -130,6 +132,7 @@ export default function Home() {
           <img src="/images/deliver.png" className="w-40 h-52 rounded-full mb- w-border- border-slate"/>
           <p className="text-2xl font-bold">Good Quality</p>
         </div>
+
       </div>
       <div className="text-center  my-20 leading-10 pt-72">
         <p className="font-bold text-2xl">Testimonial</p>
